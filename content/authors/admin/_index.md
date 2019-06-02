@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ozan Caglayan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,39 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Machine Translation
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Le Mans University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+ - Neural Networks
+ - Natural Language Processing
+ - Embedded Systems
+ - Open-Source & Linux
+ - Brain-Computer Interfaces
+ - Guitar & Piano
+ - Photography
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Machine Translation
+    institution: Le Mans University, France
+    year: 2019
+  - course: MSc. in Computer Engineering
+    institution: Galatasaray University, Turkey
+    year: 2014
+  - course: BSc. in Computer Engineering
+    institution: Galatasaray University, Turkey
     year: 2008
+  - course: Erasmus Exchange
+    institution: Université Joseph Fourier, France
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,21 +51,28 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ozan.caglayan@univ-lemans.fr'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Ozan__Caglayan
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "https://scholar.google.com/citations?user=1NTa_7QAAAAJ&hl=en"
+- icon: semantic-scholar
+  icon_pack: ai
+  link: "https://www.semanticscholar.org/author/Ozan-Caglayan/10791325"
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/ozancaglayan
+- icon: instagram
+  icon_pack: fab
+  link: "https://www.instagram.com/ozancaglayan"
+- icon: soundcloud
+  icon_pack: fab
+  link: "https://www.soundcloud.com/ozancaglayan"
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +84,18 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student at Informatics Laboratory (LIUM) of Le Mans University where I am mostly working on Neural Machine Translation
+with a focus on Multimodality. During summer 2018, I visited *Johns Hopkins University* as a graduate student in the
+[Grounded Sequence to Sequence Transduction Team](https://www.clsp.jhu.edu/workshops/18-workshop/grounded-sequence-sequence-transduction), within the [JSALT](https://www.clsp.jhu.edu/workshops/18-workshop/about) workshop.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Between 2012-2017, I worked as a research & teaching assistant in the Computer Engineering Dept. of Galatasaray University in Istanbul, Turkey
+where I lectured practical sessions for undergraduate courses such as *Algorithms, C Programming, Microprocessors and Operating Systems.*
+I obtained my MSc. degree from Galatasaray University as well where I developed a simple embedded system for a Brain-computer Interface
+application. You can access my MSc. thesis from [here](/files/msc.pdf).
+
+Between 2007-2012, I took part in the [Pardus Linux](https://en.wikipedia.org/wiki/Pardus_(operating_system)) project within the
+*Scientific & Technological Research Council of Turkey (TUBITAK)* as a full-time Linux developer.
+
+I am a signatory of the petition called *Academics for Peace* against which a series of unlawful actions have been
+taken by the Turkish state since 2016. Click [here](https://www.frontlinedefenders.org/en/case/judicial-harassment-academics-peace)
+for the recent updates.
