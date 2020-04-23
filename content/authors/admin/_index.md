@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Machine Translation
+role: Research Associate in Multimodal Machine Learning
 
 # Organizations/Affiliations
 organizations:
-- name: Le Mans University
+- name: Imperial College London
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,7 +51,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ozan.caglayan@univ-lemans.fr'
+  link: 'mailto:o.caglayan@ic.ac.uk'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Ozan__Caglayan
@@ -84,8 +84,9 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at Informatics Laboratory (LIUM) of Le Mans University where I am mostly working on Neural Machine Translation
-with a focus on Multimodality. During summer 2018, I visited *Johns Hopkins University* as a graduate student in the
+I am a postdoctoral research associate in Imperial College London with a focus
+on multimodal language learning. I received my [PhD](http://theses.fr/s131764) in 2019 from the Informatics Laboratory (LIUM) of Le Mans University.
+During summer 2018, I visited *Johns Hopkins University* as a graduate student in the
 [Grounded Sequence to Sequence Transduction Team](https://www.clsp.jhu.edu/workshops/18-workshop/grounded-sequence-sequence-transduction), within the [JSALT](https://www.clsp.jhu.edu/workshops/18-workshop/about) workshop.
 
 Between 2012-2017, I worked as a research & teaching assistant in the Computer Engineering Dept. of Galatasaray University in Istanbul, Turkey
